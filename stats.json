@@ -1,26 +1,28 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
     "medium": 2,
-    "hard": 0,
+    "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Power_of_Three": true,
     "LeetCode_Pow(x,_n)": true,
-    "LeetCode_Add_Two_Numbers": true
+    "LeetCode_Add_Two_Numbers": true,
+    "LeetCode_First_Missing_Positive": true
   },
   "activityHistory": {
     "2026-07-04": 1,
     "2026-07-05": 1,
-    "2026-07-12": 1
+    "2026-07-12": 2
   },
   "todayProblems": [
-    "Add Two Numbers"
+    "Add Two Numbers",
+    "First Missing Positive"
   ]
 }
