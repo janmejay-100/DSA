@@ -2,3 +2,4 @@
 |---|---------|----------|------------|-------------|------|
 | 1 | [Power of Three](./LeetCode/Easy/Power%20of%20Three) | [LeetCode](https://leetcode.com/problems/power-of-three/) | Easy | 04 Jul 2026 | 10:42 pm |
 | 2 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 05 Jul 2026 | 10:59 pm |
+| 3 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 12 Jul 2026 | 01:02 pm |
