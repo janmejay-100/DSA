@@ -1,12 +1,12 @@
 {
-  "totalSolved": 6,
-  "currentStreak": 1,
+  "totalSolved": 7,
+  "currentStreak": 2,
   "maxStreak": 2,
-  "lastSyncDate": "2026-07-19",
-  "todayCount": 2,
+  "lastSyncDate": "2026-07-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 3,
+    "medium": 4,
     "hard": 1,
     "basic": 0
   },
@@ -16,16 +16,17 @@
     "LeetCode_Add_Two_Numbers": true,
     "LeetCode_First_Missing_Positive": true,
     "LeetCode_Longest_Subarray_of_1's_After_Deleting_One_Element": true,
-    "LeetCode_Matrix_Diagonal_Sum": true
+    "LeetCode_Matrix_Diagonal_Sum": true,
+    "LeetCode_Sort_Colors": true
   },
   "activityHistory": {
     "2026-07-04": 1,
     "2026-07-05": 1,
     "2026-07-12": 2,
-    "2026-07-19": 2
+    "2026-07-19": 2,
+    "2026-07-20": 1
   },
   "todayProblems": [
-    "Longest Subarray of 1's After Deleting One Element",
-    "Matrix Diagonal Sum"
+    "Sort Colors"
   ]
 }
