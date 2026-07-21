@@ -7,3 +7,4 @@
 | 5 | [Longest Subarray of 1's After Deleting One Element](./LeetCode/Medium/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element) | [LeetCode](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | 19 Jul 2026 | 09:45 pm |
 | 6 | [Matrix Diagonal Sum](./LeetCode/Easy/Matrix%20Diagonal%20Sum) | [LeetCode](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy | 19 Jul 2026 | 10:00 pm |
 | 7 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 20 Jul 2026 | 08:50 pm |
+| 8 | [Flipping an Image](./LeetCode/Easy/Flipping%20an%20Image) | [LeetCode](https://leetcode.com/problems/flipping-an-image/) | Easy | 21 Jul 2026 | 09:19 pm |
