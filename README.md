@@ -11,3 +11,4 @@
 | 9 | [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) | [LeetCode](https://leetcode.com/problems/reshape-the-matrix/) | Easy | 21 Jul 2026 | 10:19 pm |
 | 10 | [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) | [LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Easy | 22 Jul 2026 | 08:35 pm |
 | 11 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 23 Jul 2026 | 10:22 pm |
+| 12 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 24 Jul 2026 | 07:16 pm |

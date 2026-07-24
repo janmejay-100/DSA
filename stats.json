@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-07-23",
+  "totalSolved": 12,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-07-24",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 5,
+    "medium": 6,
     "hard": 1,
     "basic": 0
   },
@@ -21,7 +21,8 @@
     "LeetCode_Flipping_an_Image": true,
     "LeetCode_Reshape_the_Matrix": true,
     "LeetCode_Special_Positions_in_a_Binary_Matrix": true,
-    "LeetCode_Spiral_Matrix": true
+    "LeetCode_Spiral_Matrix": true,
+    "LeetCode_Set_Matrix_Zeroes": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -31,9 +32,10 @@
     "2026-07-20": 1,
     "2026-07-21": 2,
     "2026-07-22": 1,
-    "2026-07-23": 1
+    "2026-07-23": 1,
+    "2026-07-24": 1
   },
   "todayProblems": [
-    "Spiral Matrix"
+    "Set Matrix Zeroes"
   ]
 }
