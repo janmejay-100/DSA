@@ -12,3 +12,4 @@
 | 10 | [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) | [LeetCode](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Easy | 22 Jul 2026 | 08:35 pm |
 | 11 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 23 Jul 2026 | 10:22 pm |
 | 12 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 24 Jul 2026 | 07:16 pm |
+| 13 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 25 Jul 2026 | 09:09 pm |
