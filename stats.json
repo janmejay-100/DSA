@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-07-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 7,
+    "medium": 8,
     "hard": 1,
     "basic": 0
   },
@@ -23,7 +23,8 @@
     "LeetCode_Special_Positions_in_a_Binary_Matrix": true,
     "LeetCode_Spiral_Matrix": true,
     "LeetCode_Set_Matrix_Zeroes": true,
-    "LeetCode_Rotate_Image": true
+    "LeetCode_Rotate_Image": true,
+    "LeetCode_Search_a_2D_Matrix": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -35,9 +36,10 @@
     "2026-07-22": 1,
     "2026-07-23": 1,
     "2026-07-24": 1,
-    "2026-07-25": 1
+    "2026-07-25": 2
   },
   "todayProblems": [
-    "Rotate Image"
+    "Rotate Image",
+    "Search a 2D Matrix"
   ]
 }
