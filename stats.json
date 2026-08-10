@@ -1,11 +1,11 @@
 {
-  "totalSolved": 28,
-  "currentStreak": 2,
+  "totalSolved": 29,
+  "currentStreak": 3,
   "maxStreak": 9,
-  "lastSyncDate": "2026-08-09",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-10",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 17,
+    "easy": 18,
     "medium": 10,
     "hard": 1,
     "basic": 0
@@ -38,7 +38,8 @@
     "LeetCode_Ransom_Note": true,
     "LeetCode_Is_Subsequence": true,
     "LeetCode_Merge_Strings_Alternately": true,
-    "LeetCode_Reverse_Words_in_a_String_III": true
+    "LeetCode_Reverse_Words_in_a_String_III": true,
+    "LeetCode_Add_Strings": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -58,10 +59,10 @@
     "2026-08-02": 3,
     "2026-08-06": 1,
     "2026-08-08": 2,
-    "2026-08-09": 2
+    "2026-08-09": 2,
+    "2026-08-10": 1
   },
   "todayProblems": [
-    "Merge Strings Alternately",
-    "Reverse Words in a String III"
+    "Add Strings"
   ]
 }
