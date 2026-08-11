@@ -30,3 +30,4 @@
 | 28 | [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | 09 Aug 2026 | 09:09 pm |
 | 29 | [Add Strings](./LeetCode/Easy/Add%20Strings) | [LeetCode](https://leetcode.com/problems/add-strings/) | Easy | 10 Aug 2026 | 08:28 am |
 | 30 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 10 Aug 2026 | 10:46 am |
+| 31 | [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 11 Aug 2026 | 09:16 am |
