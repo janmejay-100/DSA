@@ -33,3 +33,4 @@
 | 31 | [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 11 Aug 2026 | 09:16 am |
 | 32 | [Reverse Vowels of a String](./LeetCode/Easy/Reverse%20Vowels%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | 11 Aug 2026 | 11:41 am |
 | 33 | [Remove Trailing Zeros From a String](./LeetCode/Easy/Remove%20Trailing%20Zeros%20From%20a%20String) | [LeetCode](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | Easy | 11 Aug 2026 | 12:11 pm |
+| 34 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 12 Aug 2026 | 09:54 am |

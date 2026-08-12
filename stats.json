@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
-  "currentStreak": 4,
+  "totalSolved": 34,
+  "currentStreak": 5,
   "maxStreak": 9,
-  "lastSyncDate": "2026-08-11",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-12",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 11,
+    "medium": 12,
     "hard": 1,
     "basic": 0
   },
@@ -43,7 +43,8 @@
     "LeetCode_Reverse_Words_in_a_String": true,
     "LeetCode_Find_the_Index_of_the_First_Occurrence_in_a_String": true,
     "LeetCode_Reverse_Vowels_of_a_String": true,
-    "LeetCode_Remove_Trailing_Zeros_From_a_String": true
+    "LeetCode_Remove_Trailing_Zeros_From_a_String": true,
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -65,11 +66,10 @@
     "2026-08-08": 2,
     "2026-08-09": 2,
     "2026-08-10": 2,
-    "2026-08-11": 3
+    "2026-08-11": 3,
+    "2026-08-12": 1
   },
   "todayProblems": [
-    "Find the Index of the First Occurrence in a String",
-    "Reverse Vowels of a String",
-    "Remove Trailing Zeros From a String"
+    "Longest Substring Without Repeating Characters"
   ]
 }
