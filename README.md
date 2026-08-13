@@ -35,3 +35,4 @@
 | 33 | [Remove Trailing Zeros From a String](./LeetCode/Easy/Remove%20Trailing%20Zeros%20From%20a%20String) | [LeetCode](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | Easy | 11 Aug 2026 | 12:11 pm |
 | 34 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 12 Aug 2026 | 09:54 am |
 | 35 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 13 Aug 2026 | 09:30 am |
+| 36 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 13 Aug 2026 | 07:43 pm |

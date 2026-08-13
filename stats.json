@@ -1,12 +1,12 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "currentStreak": 6,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 13,
+    "medium": 14,
     "hard": 1,
     "basic": 0
   },
@@ -45,7 +45,8 @@
     "LeetCode_Reverse_Vowels_of_a_String": true,
     "LeetCode_Remove_Trailing_Zeros_From_a_String": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
-    "LeetCode_Group_Anagrams": true
+    "LeetCode_Group_Anagrams": true,
+    "LeetCode_Longest_Palindromic_Substring": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -69,9 +70,10 @@
     "2026-08-10": 2,
     "2026-08-11": 3,
     "2026-08-12": 1,
-    "2026-08-13": 1
+    "2026-08-13": 2
   },
   "todayProblems": [
-    "Group Anagrams"
+    "Group Anagrams",
+    "Longest Palindromic Substring"
   ]
 }
