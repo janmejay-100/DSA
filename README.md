@@ -40,3 +40,4 @@
 | 38 | [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) | [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | 16 Aug 2026 | 08:02 pm |
 | 39 | [Add Digits](./LeetCode/Easy/Add%20Digits) | [LeetCode](https://leetcode.com/problems/add-digits/) | Easy | 16 Aug 2026 | 08:43 pm |
 | 40 | [Smallest Even Multiple](./LeetCode/Easy/Smallest%20Even%20Multiple) | [LeetCode](https://leetcode.com/problems/smallest-even-multiple/) | Easy | 17 Aug 2026 | 12:13 pm |
+| 41 | [Find Greatest Common Divisor of Array](./LeetCode/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array) | [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 17 Aug 2026 | 01:18 pm |
