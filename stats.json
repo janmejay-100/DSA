@@ -1,12 +1,12 @@
 {
-  "totalSolved": 41,
+  "totalSolved": 42,
   "currentStreak": 3,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 25,
-    "medium": 15,
+    "medium": 16,
     "hard": 1,
     "basic": 0
   },
@@ -51,7 +51,8 @@
     "LeetCode_Find_Numbers_with_Even_Number_of_Digits": true,
     "LeetCode_Add_Digits": true,
     "LeetCode_Smallest_Even_Multiple": true,
-    "LeetCode_Find_Greatest_Common_Divisor_of_Array": true
+    "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
+    "LeetCode_Factorial_Trailing_Zeroes": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -78,10 +79,11 @@
     "2026-08-13": 2,
     "2026-08-15": 1,
     "2026-08-16": 2,
-    "2026-08-17": 2
+    "2026-08-17": 3
   },
   "todayProblems": [
     "Smallest Even Multiple",
-    "Find Greatest Common Divisor of Array"
+    "Find Greatest Common Divisor of Array",
+    "Factorial Trailing Zeroes"
   ]
 }
