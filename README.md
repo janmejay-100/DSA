@@ -39,3 +39,4 @@
 | 37 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 15 Aug 2026 | 08:08 pm |
 | 38 | [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) | [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | 16 Aug 2026 | 08:02 pm |
 | 39 | [Add Digits](./LeetCode/Easy/Add%20Digits) | [LeetCode](https://leetcode.com/problems/add-digits/) | Easy | 16 Aug 2026 | 08:43 pm |
+| 40 | [Smallest Even Multiple](./LeetCode/Easy/Smallest%20Even%20Multiple) | [LeetCode](https://leetcode.com/problems/smallest-even-multiple/) | Easy | 17 Aug 2026 | 12:13 pm |
