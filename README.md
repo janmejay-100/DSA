@@ -43,3 +43,4 @@
 | 41 | [Find Greatest Common Divisor of Array](./LeetCode/Easy/Find%20Greatest%20Common%20Divisor%20of%20Array) | [LeetCode](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | 17 Aug 2026 | 01:18 pm |
 | 42 | [Factorial Trailing Zeroes](./LeetCode/Medium/Factorial%20Trailing%20Zeroes) | [LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/) | Medium | 17 Aug 2026 | 06:43 pm |
 | 43 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 24 Aug 2026 | 10:03 pm |
+| 44 | [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | 26 Aug 2026 | 10:02 pm |
