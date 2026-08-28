@@ -1,12 +1,12 @@
 {
-  "totalSolved": 44,
+  "totalSolved": 45,
   "currentStreak": 1,
   "maxStreak": 9,
-  "lastSyncDate": "2026-08-26",
+  "lastSyncDate": "2026-08-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 17,
+    "medium": 18,
     "hard": 1,
     "basic": 0
   },
@@ -54,7 +54,8 @@
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
     "LeetCode_Factorial_Trailing_Zeroes": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
-    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true,
+    "LeetCode_Rotate_Array": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -83,9 +84,10 @@
     "2026-08-16": 2,
     "2026-08-17": 3,
     "2026-08-24": 1,
-    "2026-08-26": 1
+    "2026-08-26": 1,
+    "2026-08-28": 1
   },
   "todayProblems": [
-    "Best Time to Buy and Sell Stock II"
+    "Rotate Array"
   ]
 }
