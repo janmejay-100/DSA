@@ -46,3 +46,4 @@
 | 44 | [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | 26 Aug 2026 | 10:02 pm |
 | 45 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 28 Aug 2026 | 10:43 am |
 | 46 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 28 Aug 2026 | 10:09 pm |
+| 47 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 28 Aug 2026 | 10:53 pm |
