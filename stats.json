@@ -1,11 +1,11 @@
 {
-  "totalSolved": 48,
+  "totalSolved": 49,
   "currentStreak": 2,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 29,
+    "easy": 30,
     "medium": 18,
     "hard": 1,
     "basic": 0
@@ -58,7 +58,8 @@
     "LeetCode_Rotate_Array": true,
     "LeetCode_Single_Number": true,
     "LeetCode_Intersection_of_Two_Arrays": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Intersection_of_Two_Arrays_II": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -89,9 +90,10 @@
     "2026-08-24": 1,
     "2026-08-26": 1,
     "2026-08-28": 3,
-    "2026-08-29": 1
+    "2026-08-29": 2
   },
   "todayProblems": [
-    "Move Zeroes"
+    "Move Zeroes",
+    "Intersection of Two Arrays II"
   ]
 }
