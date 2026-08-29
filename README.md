@@ -47,3 +47,4 @@
 | 45 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 28 Aug 2026 | 10:43 am |
 | 46 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 28 Aug 2026 | 10:09 pm |
 | 47 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 28 Aug 2026 | 10:53 pm |
+| 48 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 29 Aug 2026 | 08:34 pm |
