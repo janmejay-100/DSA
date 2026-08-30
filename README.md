@@ -49,3 +49,4 @@
 | 47 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 28 Aug 2026 | 10:53 pm |
 | 48 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 29 Aug 2026 | 08:34 pm |
 | 49 | [Intersection of Two Arrays II](./LeetCode/Easy/Intersection%20of%20Two%20Arrays%20II) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | 29 Aug 2026 | 09:47 pm |
+| 50 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 30 Aug 2026 | 11:22 pm |
