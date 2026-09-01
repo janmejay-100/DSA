@@ -52,3 +52,4 @@
 | 50 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 30 Aug 2026 | 11:22 pm |
 | 51 | [Capitalize the Title](./LeetCode/Easy/Capitalize%20the%20Title) | [LeetCode](https://leetcode.com/problems/capitalize-the-title/) | Easy | 31 Aug 2026 | 07:22 pm |
 | 52 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 31 Aug 2026 | 07:59 pm |
+| 53 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 01 Sept 2026 | 08:19 pm |
