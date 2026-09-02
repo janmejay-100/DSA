@@ -55,3 +55,4 @@
 | 53 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 01 Sept 2026 | 08:19 pm |
 | 54 | [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) | [LeetCode](https://leetcode.com/problems/duplicate-zeros/) | Easy | 01 Sept 2026 | 09:02 pm |
 | 55 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 02 Sept 2026 | 07:14 pm |
+| 56 | [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/valid-mountain-array/) | Easy | 02 Sept 2026 | 08:17 pm |
