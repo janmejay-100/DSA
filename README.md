@@ -56,3 +56,4 @@
 | 54 | [Duplicate Zeros](./LeetCode/Easy/Duplicate%20Zeros) | [LeetCode](https://leetcode.com/problems/duplicate-zeros/) | Easy | 01 Sept 2026 | 09:02 pm |
 | 55 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 02 Sept 2026 | 07:14 pm |
 | 56 | [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/valid-mountain-array/) | Easy | 02 Sept 2026 | 08:17 pm |
+| 57 | [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) | [LeetCode](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | 03 Sept 2026 | 06:56 pm |
