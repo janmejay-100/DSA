@@ -58,3 +58,4 @@
 | 56 | [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) | [LeetCode](https://leetcode.com/problems/valid-mountain-array/) | Easy | 02 Sept 2026 | 08:17 pm |
 | 57 | [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) | [LeetCode](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | 03 Sept 2026 | 06:56 pm |
 | 58 | [Sort Array By Parity](./LeetCode/Easy/Sort%20Array%20By%20Parity) | [LeetCode](https://leetcode.com/problems/sort-array-by-parity/) | Easy | 04 Sept 2026 | 05:57 pm |
+| 59 | [Height Checker](./LeetCode/Easy/Height%20Checker) | [LeetCode](https://leetcode.com/problems/height-checker/) | Easy | 05 Sept 2026 | 12:05 pm |
