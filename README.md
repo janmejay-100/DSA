@@ -61,3 +61,4 @@
 | 59 | [Height Checker](./LeetCode/Easy/Height%20Checker) | [LeetCode](https://leetcode.com/problems/height-checker/) | Easy | 05 Sept 2026 | 12:05 pm |
 | 60 | [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) | [LeetCode](https://leetcode.com/problems/third-maximum-number/) | Easy | 05 Sept 2026 | 12:29 pm |
 | 61 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 06 Sept 2026 | 11:41 am |
+| 62 | [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | Easy | 06 Sept 2026 | 12:10 pm |
