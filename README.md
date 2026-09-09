@@ -65,3 +65,4 @@
 | 63 | [Largest Number At Least Twice of Others](./LeetCode/Easy/Largest%20Number%20At%20Least%20Twice%20of%20Others) | [LeetCode](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | 06 Sept 2026 | 12:30 pm |
 | 64 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 07 Sept 2026 | 10:11 pm |
 | 65 | [Count Good Cyclic Rotations](./LeetCode/Medium/Count%20Good%20Cyclic%20Rotations) | [LeetCode](https://leetcode.com/problems/count-good-cyclic-rotations/) | Medium | 08 Sept 2026 | 10:25 am |
+| 66 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 09 Sept 2026 | 07:49 pm |
