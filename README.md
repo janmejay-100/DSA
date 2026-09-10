@@ -66,3 +66,4 @@
 | 64 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 07 Sept 2026 | 10:11 pm |
 | 65 | [Count Good Cyclic Rotations](./LeetCode/Medium/Count%20Good%20Cyclic%20Rotations) | [LeetCode](https://leetcode.com/problems/count-good-cyclic-rotations/) | Medium | 08 Sept 2026 | 10:25 am |
 | 66 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 09 Sept 2026 | 07:49 pm |
+| 67 | [Array Partition](./LeetCode/Easy/Array%20Partition) | [LeetCode](https://leetcode.com/problems/array-partition/) | Easy | 10 Sept 2026 | 08:39 pm |
