@@ -70,3 +70,4 @@
 | 68 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 12 Sept 2026 | 12:18 am |
 | 69 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 12 Sept 2026 | 11:16 am |
 | 70 | [Divide Two Integers](./LeetCode/Medium/Divide%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/divide-two-integers/) | Medium | 12 Sept 2026 | 11:18 am |
+| 71 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 12 Sept 2026 | 11:21 am |
