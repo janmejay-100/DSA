@@ -68,3 +68,4 @@
 | 66 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 09 Sept 2026 | 07:49 pm |
 | 67 | [Array Partition](./LeetCode/Easy/Array%20Partition) | [LeetCode](https://leetcode.com/problems/array-partition/) | Easy | 10 Sept 2026 | 08:39 pm |
 | 68 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 12 Sept 2026 | 12:18 am |
+| 69 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 12 Sept 2026 | 11:16 am |
