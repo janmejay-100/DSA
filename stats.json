@@ -1,11 +1,11 @@
 {
-  "totalSolved": 71,
-  "currentStreak": 1,
+  "totalSolved": 72,
+  "currentStreak": 2,
   "maxStreak": 14,
-  "lastSyncDate": "2026-09-12",
-  "todayCount": 4,
+  "lastSyncDate": "2026-09-13",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 47,
+    "easy": 48,
     "medium": 22,
     "hard": 2,
     "basic": 0
@@ -81,7 +81,8 @@
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
     "LeetCode_Pascal's_Triangle_II": true,
     "LeetCode_Divide_Two_Integers": true,
-    "LeetCode_Symmetric_Tree": true
+    "LeetCode_Symmetric_Tree": true,
+    "LeetCode_Add_Binary": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -125,12 +126,10 @@
     "2026-09-08": 1,
     "2026-09-09": 1,
     "2026-09-10": 1,
-    "2026-09-12": 4
+    "2026-09-12": 4,
+    "2026-09-13": 1
   },
   "todayProblems": [
-    "Median of Two Sorted Arrays",
-    "Pascal's Triangle II",
-    "Divide Two Integers",
-    "Symmetric Tree"
+    "Add Binary"
   ]
 }

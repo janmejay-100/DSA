@@ -71,3 +71,4 @@
 | 69 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 12 Sept 2026 | 11:16 am |
 | 70 | [Divide Two Integers](./LeetCode/Medium/Divide%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/divide-two-integers/) | Medium | 12 Sept 2026 | 11:18 am |
 | 71 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 12 Sept 2026 | 11:21 am |
+| 72 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 13 Sept 2026 | 01:27 pm |
