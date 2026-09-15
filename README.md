@@ -72,3 +72,4 @@
 | 70 | [Divide Two Integers](./LeetCode/Medium/Divide%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/divide-two-integers/) | Medium | 12 Sept 2026 | 11:18 am |
 | 71 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 12 Sept 2026 | 11:21 am |
 | 72 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 13 Sept 2026 | 01:27 pm |
+| 73 | [Diagonal Traverse](./LeetCode/Medium/Diagonal%20Traverse) | [LeetCode](https://leetcode.com/problems/diagonal-traverse/) | Medium | 15 Sept 2026 | 11:45 am |
