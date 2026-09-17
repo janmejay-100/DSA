@@ -1,12 +1,12 @@
 {
-  "totalSolved": 73,
+  "totalSolved": 74,
   "currentStreak": 1,
   "maxStreak": 14,
-  "lastSyncDate": "2026-09-15",
+  "lastSyncDate": "2026-09-17",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 48,
-    "medium": 23,
+    "medium": 24,
     "hard": 2,
     "basic": 0
   },
@@ -83,7 +83,8 @@
     "LeetCode_Divide_Two_Integers": true,
     "LeetCode_Symmetric_Tree": true,
     "LeetCode_Add_Binary": true,
-    "LeetCode_Diagonal_Traverse": true
+    "LeetCode_Diagonal_Traverse": true,
+    "LeetCode_Remove_Nth_Node_From_End_of_List": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -129,9 +130,10 @@
     "2026-09-10": 1,
     "2026-09-12": 4,
     "2026-09-13": 1,
-    "2026-09-15": 1
+    "2026-09-15": 1,
+    "2026-09-17": 1
   },
   "todayProblems": [
-    "Diagonal Traverse"
+    "Remove Nth Node From End of List"
   ]
 }
