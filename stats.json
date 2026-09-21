@@ -1,12 +1,12 @@
 {
-  "totalSolved": 81,
-  "currentStreak": 4,
+  "totalSolved": 82,
+  "currentStreak": 5,
   "maxStreak": 14,
-  "lastSyncDate": "2026-09-20",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 53,
-    "medium": 26,
+    "medium": 27,
     "hard": 2,
     "basic": 0
   },
@@ -91,7 +91,8 @@
     "LeetCode_Linked_List_Cycle": true,
     "LeetCode_Design_Linked_List": true,
     "LeetCode_Linked_List_Cycle_II": true,
-    "LeetCode_Intersection_of_Two_Linked_Lists": true
+    "LeetCode_Intersection_of_Two_Linked_Lists": true,
+    "LeetCode_Odd_Even_Linked_List": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -141,10 +142,10 @@
     "2026-09-17": 3,
     "2026-09-18": 2,
     "2026-09-19": 1,
-    "2026-09-20": 2
+    "2026-09-20": 2,
+    "2026-09-21": 1
   },
   "todayProblems": [
-    "Linked List Cycle II",
-    "Intersection of Two Linked Lists"
+    "Odd Even Linked List"
   ]
 }
