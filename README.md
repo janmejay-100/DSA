@@ -82,3 +82,4 @@
 | 80 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 20 Sept 2026 | 12:19 pm |
 | 81 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 20 Sept 2026 | 01:41 pm |
 | 82 | [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) | [LeetCode](https://leetcode.com/problems/odd-even-linked-list/) | Medium | 21 Sept 2026 | 08:43 pm |
+| 83 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 22 Sept 2026 | 12:03 pm |
