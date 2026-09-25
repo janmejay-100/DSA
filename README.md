@@ -85,3 +85,4 @@
 | 83 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 22 Sept 2026 | 12:03 pm |
 | 84 | [Sort List](./LeetCode/Medium/Sort%20List) | [LeetCode](https://leetcode.com/problems/sort-list/) | Medium | 23 Sept 2026 | 05:45 pm |
 | 85 | [Design HashSet](./LeetCode/Easy/Design%20HashSet) | [LeetCode](https://leetcode.com/problems/design-hashset/) | Easy | 25 Sept 2026 | 12:32 am |
+| 86 | [Reorder List](./LeetCode/Medium/Reorder%20List) | [LeetCode](https://leetcode.com/problems/reorder-list/) | Medium | 25 Sept 2026 | 11:53 am |
