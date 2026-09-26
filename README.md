@@ -86,3 +86,4 @@
 | 84 | [Sort List](./LeetCode/Medium/Sort%20List) | [LeetCode](https://leetcode.com/problems/sort-list/) | Medium | 23 Sept 2026 | 05:45 pm |
 | 85 | [Design HashSet](./LeetCode/Easy/Design%20HashSet) | [LeetCode](https://leetcode.com/problems/design-hashset/) | Easy | 25 Sept 2026 | 12:32 am |
 | 86 | [Reorder List](./LeetCode/Medium/Reorder%20List) | [LeetCode](https://leetcode.com/problems/reorder-list/) | Medium | 25 Sept 2026 | 11:53 am |
+| 87 | [Swapping Nodes in a Linked List](./LeetCode/Medium/Swapping%20Nodes%20in%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | 27 Sept 2026 | 02:46 am |
