@@ -1,12 +1,12 @@
 {
-  "totalSolved": 87,
+  "totalSolved": 88,
   "currentStreak": 1,
   "maxStreak": 14,
-  "lastSyncDate": "2026-09-27",
+  "lastSyncDate": "2026-09-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 55,
-    "medium": 30,
+    "medium": 31,
     "hard": 2,
     "basic": 0
   },
@@ -97,7 +97,8 @@
     "LeetCode_Sort_List": true,
     "LeetCode_Design_HashSet": true,
     "LeetCode_Reorder_List": true,
-    "LeetCode_Swapping_Nodes_in_a_Linked_List": true
+    "LeetCode_Swapping_Nodes_in_a_Linked_List": true,
+    "LeetCode_Reverse_Linked_List_II": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -152,9 +153,10 @@
     "2026-09-22": 1,
     "2026-09-23": 1,
     "2026-09-25": 2,
-    "2026-09-27": 1
+    "2026-09-27": 1,
+    "2026-09-29": 1
   },
   "todayProblems": [
-    "Swapping Nodes in a Linked List"
+    "Reverse Linked List II"
   ]
 }
