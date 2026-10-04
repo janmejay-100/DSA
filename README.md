@@ -92,3 +92,4 @@
 | 90 | [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | Easy | 01 Oct 2026 | 08:01 pm |
 | 91 | [Minimum Index Sum of Two Lists](./LeetCode/Easy/Minimum%20Index%20Sum%20of%20Two%20Lists) | [LeetCode](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | Easy | 02 Oct 2026 | 10:34 pm |
 | 92 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 03 Oct 2026 | 10:50 am |
+| 93 | [Jewels and Stones](./LeetCode/Easy/Jewels%20and%20Stones) | [LeetCode](https://leetcode.com/problems/jewels-and-stones/) | Easy | 04 Oct 2026 | 12:36 pm |
