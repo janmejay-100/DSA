@@ -1,12 +1,12 @@
 {
-  "totalSolved": 93,
-  "currentStreak": 6,
+  "totalSolved": 94,
+  "currentStreak": 7,
   "maxStreak": 14,
-  "lastSyncDate": "2026-10-04",
+  "lastSyncDate": "2026-10-05",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 59,
-    "medium": 32,
+    "medium": 33,
     "hard": 2,
     "basic": 0
   },
@@ -103,7 +103,8 @@
     "LeetCode_Isomorphic_Strings": true,
     "LeetCode_Minimum_Index_Sum_of_Two_Lists": true,
     "LeetCode_Contains_Duplicate_II": true,
-    "LeetCode_Jewels_and_Stones": true
+    "LeetCode_Jewels_and_Stones": true,
+    "LeetCode_Top_K_Frequent_Elements": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -164,9 +165,10 @@
     "2026-10-01": 1,
     "2026-10-02": 1,
     "2026-10-03": 1,
-    "2026-10-04": 1
+    "2026-10-04": 1,
+    "2026-10-05": 1
   },
   "todayProblems": [
-    "Jewels and Stones"
+    "Top K Frequent Elements"
   ]
 }
