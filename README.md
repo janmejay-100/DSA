@@ -94,3 +94,4 @@
 | 92 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 03 Oct 2026 | 10:50 am |
 | 93 | [Jewels and Stones](./LeetCode/Easy/Jewels%20and%20Stones) | [LeetCode](https://leetcode.com/problems/jewels-and-stones/) | Easy | 04 Oct 2026 | 12:36 pm |
 | 94 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 05 Oct 2026 | 07:16 pm |
+| 95 | [Insert Delete GetRandom O(1)](./LeetCode/Medium/Insert%20Delete%20GetRandom%20O(1)) | [LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | 06 Oct 2026 | 10:42 am |
