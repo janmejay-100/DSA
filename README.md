@@ -97,3 +97,4 @@
 | 95 | [Insert Delete GetRandom O(1)](./LeetCode/Medium/Insert%20Delete%20GetRandom%20O(1)) | [LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | 06 Oct 2026 | 10:42 am |
 | 96 | [Find Duplicate Subtrees](./LeetCode/Medium/Find%20Duplicate%20Subtrees) | [LeetCode](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium | 07 Oct 2026 | 09:04 pm |
 | 97 | [Guess Number Higher or Lower](./LeetCode/Easy/Guess%20Number%20Higher%20or%20Lower) | [LeetCode](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | 08 Oct 2026 | 10:33 am |
+| 98 | [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) | [LeetCode](https://leetcode.com/problems/first-bad-version/) | Easy | 09 Oct 2026 | 08:54 pm |
