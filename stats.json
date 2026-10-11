@@ -1,13 +1,13 @@
 {
-  "totalSolved": 99,
-  "currentStreak": 12,
+  "totalSolved": 100,
+  "currentStreak": 13,
   "maxStreak": 14,
-  "lastSyncDate": "2026-10-10",
+  "lastSyncDate": "2026-10-11",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 61,
     "medium": 36,
-    "hard": 2,
+    "hard": 3,
     "basic": 0
   },
   "syncedProblems": {
@@ -109,7 +109,8 @@
     "LeetCode_Find_Duplicate_Subtrees": true,
     "LeetCode_Guess_Number_Higher_or_Lower": true,
     "LeetCode_First_Bad_Version": true,
-    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
+    "LeetCode_Trapping_Rain_Water": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -176,9 +177,10 @@
     "2026-10-07": 1,
     "2026-10-08": 1,
     "2026-10-09": 1,
-    "2026-10-10": 1
+    "2026-10-10": 1,
+    "2026-10-11": 1
   },
   "todayProblems": [
-    "Find Minimum in Rotated Sorted Array"
+    "Trapping Rain Water"
   ]
 }
