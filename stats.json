@@ -1,12 +1,12 @@
 {
-  "totalSolved": 102,
-  "currentStreak": 15,
-  "maxStreak": 15,
-  "lastSyncDate": "2026-10-13",
+  "totalSolved": 103,
+  "currentStreak": 16,
+  "maxStreak": 16,
+  "lastSyncDate": "2026-10-14",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 61,
-    "medium": 38,
+    "medium": 39,
     "hard": 3,
     "basic": 0
   },
@@ -112,7 +112,8 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Trapping_Rain_Water": true,
     "LeetCode_Jump_Game": true,
-    "LeetCode_Largest_Number": true
+    "LeetCode_Largest_Number": true,
+    "LeetCode_Maximum_Gap": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -182,9 +183,10 @@
     "2026-10-10": 1,
     "2026-10-11": 1,
     "2026-10-12": 1,
-    "2026-10-13": 1
+    "2026-10-13": 1,
+    "2026-10-14": 1
   },
   "todayProblems": [
-    "Largest Number"
+    "Maximum Gap"
   ]
 }
