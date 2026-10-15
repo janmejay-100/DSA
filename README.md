@@ -103,3 +103,4 @@
 | 101 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 12 Oct 2026 | 07:11 pm |
 | 102 | [Largest Number](./LeetCode/Medium/Largest%20Number) | [LeetCode](https://leetcode.com/problems/largest-number/) | Medium | 13 Oct 2026 | 09:35 am |
 | 103 | [Maximum Gap](./LeetCode/Medium/Maximum%20Gap) | [LeetCode](https://leetcode.com/problems/maximum-gap/) | Medium | 14 Oct 2026 | 07:17 pm |
+| 104 | [Can Place Flowers](./LeetCode/Easy/Can%20Place%20Flowers) | [LeetCode](https://leetcode.com/problems/can-place-flowers/) | Easy | 15 Oct 2026 | 06:05 pm |
