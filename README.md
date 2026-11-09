@@ -109,3 +109,4 @@
 | 107 | [Query Kth Smallest Trimmed Number](./LeetCode/Medium/Query%20Kth%20Smallest%20Trimmed%20Number) | [LeetCode](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium | 08 Nov 2026 | 01:36 pm |
 | 108 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 09 Nov 2026 | 07:02 pm |
 | 109 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 09 Nov 2026 | 07:30 pm |
+| 110 | [Check If It Is a Straight Line](./LeetCode/Easy/Check%20If%20It%20Is%20a%20Straight%20Line) | [LeetCode](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy | 09 Nov 2026 | 08:21 pm |
