@@ -1,12 +1,12 @@
 {
-  "totalSolved": 108,
+  "totalSolved": 109,
   "currentStreak": 2,
   "maxStreak": 17,
   "lastSyncDate": "2026-11-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 65,
-    "medium": 40,
+    "medium": 41,
     "hard": 3,
     "basic": 0
   },
@@ -118,7 +118,8 @@
     "LeetCode_Sort_Array_By_Parity_II": true,
     "LeetCode_Valid_Palindrome_II": true,
     "LeetCode_Query_Kth_Smallest_Trimmed_Number": true,
-    "LeetCode_Fizz_Buzz": true
+    "LeetCode_Fizz_Buzz": true,
+    "LeetCode_Count_Primes": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -193,9 +194,10 @@
     "2026-10-15": 2,
     "2026-10-17": 1,
     "2026-11-08": 1,
-    "2026-11-09": 1
+    "2026-11-09": 2
   },
   "todayProblems": [
-    "Fizz Buzz"
+    "Fizz Buzz",
+    "Count Primes"
   ]
 }

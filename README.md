@@ -108,3 +108,4 @@
 | 106 | [Valid Palindrome II](./LeetCode/Easy/Valid%20Palindrome%20II) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | 17 Oct 2026 | 08:36 pm |
 | 107 | [Query Kth Smallest Trimmed Number](./LeetCode/Medium/Query%20Kth%20Smallest%20Trimmed%20Number) | [LeetCode](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | Medium | 08 Nov 2026 | 01:36 pm |
 | 108 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 09 Nov 2026 | 07:02 pm |
+| 109 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 09 Nov 2026 | 07:30 pm |
