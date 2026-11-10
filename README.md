@@ -111,3 +111,4 @@
 | 109 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 09 Nov 2026 | 07:30 pm |
 | 110 | [Check If It Is a Straight Line](./LeetCode/Easy/Check%20If%20It%20Is%20a%20Straight%20Line) | [LeetCode](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy | 09 Nov 2026 | 08:21 pm |
 | 111 | [Minimum Cuts to Divide a Circle](./LeetCode/Easy/Minimum%20Cuts%20to%20Divide%20a%20Circle) | [LeetCode](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Easy | 10 Nov 2026 | 08:08 am |
+| 112 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 10 Nov 2026 | 08:53 am |
