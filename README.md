@@ -112,3 +112,4 @@
 | 110 | [Check If It Is a Straight Line](./LeetCode/Easy/Check%20If%20It%20Is%20a%20Straight%20Line) | [LeetCode](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy | 09 Nov 2026 | 08:21 pm |
 | 111 | [Minimum Cuts to Divide a Circle](./LeetCode/Easy/Minimum%20Cuts%20to%20Divide%20a%20Circle) | [LeetCode](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Easy | 10 Nov 2026 | 08:08 am |
 | 112 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 10 Nov 2026 | 08:53 am |
+| 113 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 11 Nov 2026 | 06:24 pm |
