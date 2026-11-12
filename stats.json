@@ -1,11 +1,11 @@
 {
-  "totalSolved": 113,
-  "currentStreak": 4,
+  "totalSolved": 114,
+  "currentStreak": 5,
   "maxStreak": 17,
-  "lastSyncDate": "2026-11-11",
+  "lastSyncDate": "2026-11-12",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 69,
+    "easy": 70,
     "medium": 41,
     "hard": 3,
     "basic": 0
@@ -123,7 +123,8 @@
     "LeetCode_Check_If_It_Is_a_Straight_Line": true,
     "LeetCode_Minimum_Cuts_to_Divide_a_Circle": true,
     "LeetCode_Rectangle_Overlap": true,
-    "LeetCode_Majority_Element": true
+    "LeetCode_Majority_Element": true,
+    "LeetCode_Number_of_1_Bits": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -200,9 +201,10 @@
     "2026-11-08": 1,
     "2026-11-09": 3,
     "2026-11-10": 2,
-    "2026-11-11": 1
+    "2026-11-11": 1,
+    "2026-11-12": 1
   },
   "todayProblems": [
-    "Majority Element"
+    "Number of 1 Bits"
   ]
 }
