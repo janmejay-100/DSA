@@ -115,3 +115,4 @@
 | 113 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 11 Nov 2026 | 06:24 pm |
 | 114 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 12 Nov 2026 | 07:08 pm |
 | 115 | [Hamming Distance](./LeetCode/Easy/Hamming%20Distance) | [LeetCode](https://leetcode.com/problems/hamming-distance/) | Easy | 13 Nov 2026 | 09:12 am |
+| 116 | [Reverse Bits](./LeetCode/Easy/Reverse%20Bits) | [LeetCode](https://leetcode.com/problems/reverse-bits/) | Easy | 15 Nov 2026 | 07:07 pm |
