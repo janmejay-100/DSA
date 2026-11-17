@@ -118,3 +118,4 @@
 | 116 | [Reverse Bits](./LeetCode/Easy/Reverse%20Bits) | [LeetCode](https://leetcode.com/problems/reverse-bits/) | Easy | 15 Nov 2026 | 07:07 pm |
 | 117 | [Peak in Array](./GeeksForGeeks/Medium/Peak%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/peak-element/1) | Medium | 16 Nov 2026 | 07:37 pm |
 | 118 | [Count Occurrences in Sorted](./GeeksForGeeks/Medium/Count%20Occurrences%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Medium | 17 Nov 2026 | 07:18 pm |
+| 119 | [Smallest Positive Missing](./GeeksForGeeks/Medium/Smallest%20Positive%20Missing) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | Medium | 17 Nov 2026 | 07:37 pm |
