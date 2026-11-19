@@ -119,3 +119,4 @@
 | 117 | [Peak in Array](./GeeksForGeeks/Medium/Peak%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/peak-element/1) | Medium | 16 Nov 2026 | 07:37 pm |
 | 118 | [Count Occurrences in Sorted](./GeeksForGeeks/Medium/Count%20Occurrences%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Medium | 17 Nov 2026 | 07:18 pm |
 | 119 | [Smallest Positive Missing](./GeeksForGeeks/Medium/Smallest%20Positive%20Missing) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | Medium | 17 Nov 2026 | 07:37 pm |
+| 120 | [K-th of Two Sorted Arrays](./GeeksForGeeks/Medium/K-th%20of%20Two%20Sorted%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | Medium | 19 Nov 2026 | 06:42 pm |
