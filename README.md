@@ -123,3 +123,4 @@
 | 121 | [First and Last in Sorted](./GeeksForGeeks/Medium/First%20and%20Last%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | 20 Nov 2026 | 12:10 pm |
 | 122 | [Rearrange Array Alternately](./GeeksForGeeks/Medium/Rearrange%20Array%20Alternately) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | Medium | 21 Nov 2026 | 07:49 pm |
 | 123 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | Easy | 22 Nov 2026 | 09:06 pm |
+| 124 | [Pythagorean Triplet](./GeeksForGeeks/Medium/Pythagorean%20Triplet) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1) | Medium | 23 Nov 2026 | 05:37 pm |
