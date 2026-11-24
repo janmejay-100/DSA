@@ -125,3 +125,4 @@
 | 123 | [Move All Zeroes to End](./GeeksForGeeks/Easy/Move%20All%20Zeroes%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | Easy | 22 Nov 2026 | 09:06 pm |
 | 124 | [Pythagorean Triplet](./GeeksForGeeks/Medium/Pythagorean%20Triplet) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1) | Medium | 23 Nov 2026 | 05:37 pm |
 | 125 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 23 Nov 2026 | 05:41 pm |
+| 126 | [Next Permutation](./GeeksForGeeks/Medium/Next%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | Medium | 24 Nov 2026 | 08:14 pm |

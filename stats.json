@@ -1,12 +1,12 @@
 {
-  "totalSolved": 126,
-  "currentStreak": 9,
+  "totalSolved": 127,
+  "currentStreak": 10,
   "maxStreak": 17,
-  "lastSyncDate": "2026-11-23",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-24",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 74,
-    "medium": 49,
+    "medium": 50,
     "hard": 3,
     "basic": 0
   },
@@ -136,7 +136,8 @@
     "GeeksForGeeks_Rearrange_Array_Alternately": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
     "GeeksForGeeks_Pythagorean_Triplet": true,
-    "GeeksForGeeks_Reverse_Array": true
+    "GeeksForGeeks_Reverse_Array": true,
+    "GeeksForGeeks_Next_Permutation": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -224,10 +225,10 @@
     "2026-11-20": 1,
     "2026-11-21": 1,
     "2026-11-22": 1,
-    "2026-11-23": 2
+    "2026-11-23": 2,
+    "2026-11-24": 1
   },
   "todayProblems": [
-    "Pythagorean Triplet",
-    "Reverse Array"
+    "Next Permutation"
   ]
 }
