@@ -126,3 +126,4 @@
 | 124 | [Pythagorean Triplet](./GeeksForGeeks/Medium/Pythagorean%20Triplet) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1) | Medium | 23 Nov 2026 | 05:37 pm |
 | 125 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 23 Nov 2026 | 05:41 pm |
 | 126 | [Next Permutation](./GeeksForGeeks/Medium/Next%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | Medium | 24 Nov 2026 | 08:14 pm |
+| 127 | [Move all Negatives to End](./GeeksForGeeks/Easy/Move%20all%20Negatives%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | Easy | 25 Nov 2026 | 07:40 pm |
