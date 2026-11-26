@@ -127,3 +127,4 @@
 | 125 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 23 Nov 2026 | 05:41 pm |
 | 126 | [Next Permutation](./GeeksForGeeks/Medium/Next%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | Medium | 24 Nov 2026 | 08:14 pm |
 | 127 | [Move all Negatives to End](./GeeksForGeeks/Easy/Move%20all%20Negatives%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | Easy | 25 Nov 2026 | 07:40 pm |
+| 128 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 26 Nov 2026 | 08:56 pm |
