@@ -129,3 +129,4 @@
 | 127 | [Move all Negatives to End](./GeeksForGeeks/Easy/Move%20all%20Negatives%20to%20End) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | Easy | 25 Nov 2026 | 07:40 pm |
 | 128 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 26 Nov 2026 | 08:56 pm |
 | 129 | [Kth from End of Linked List](./GeeksForGeeks/Easy/Kth%20from%20End%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) | Easy | 27 Nov 2026 | 08:08 pm |
+| 130 | [Remove Cycle in Linked List](./GeeksForGeeks/Medium/Remove%20Cycle%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) | Medium | 28 Nov 2026 | 11:52 am |

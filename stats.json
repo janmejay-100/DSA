@@ -1,12 +1,12 @@
 {
-  "totalSolved": 130,
-  "currentStreak": 13,
+  "totalSolved": 131,
+  "currentStreak": 14,
   "maxStreak": 17,
-  "lastSyncDate": "2026-11-27",
+  "lastSyncDate": "2026-11-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 76,
-    "medium": 51,
+    "medium": 52,
     "hard": 3,
     "basic": 0
   },
@@ -140,7 +140,8 @@
     "GeeksForGeeks_Next_Permutation": true,
     "GeeksForGeeks_Move_all_Negatives_to_End": true,
     "LeetCode_Koko_Eating_Bananas": true,
-    "GeeksForGeeks_Kth_from_End_of_Linked_List": true
+    "GeeksForGeeks_Kth_from_End_of_Linked_List": true,
+    "GeeksForGeeks_Remove_Cycle_in_Linked_List": true
   },
   "activityHistory": {
     "2026-07-04": 1,
@@ -232,9 +233,10 @@
     "2026-11-24": 1,
     "2026-11-25": 1,
     "2026-11-26": 1,
-    "2026-11-27": 1
+    "2026-11-27": 1,
+    "2026-11-28": 1
   },
   "todayProblems": [
-    "Kth from End of Linked List"
+    "Remove Cycle in Linked List"
   ]
 }
